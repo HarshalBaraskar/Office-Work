@@ -1,11 +1,24 @@
 # Purchasing includes following processes
 
    # Maintain supplier information.
-        Navigation : Main>Suppliers>Supplier Information>Add/Update> Define supplier user (page).
+        *Navigation : Main>Suppliers>Supplier Information>Add/Update> Define supplier user (page).
                                                                     -----------------------------
         -Here admin and other authorised users can give existing users authority to add/update suppliers.
         -A user having such authority is called as 'Suppliers user'.
         -Need existing user id here to create a supplier user profile.
+        
+        *Navigation : same as above. page: Supplier User
+        -Here multiple suppliers can be associated with one supplier user.
+        
+        # Navigation : same. page : Supplier.
+        -Here we create new supplier.
+        -Supplier ststus : Approved, Unapproved, Inactive,Archieved.
+        -Classification : Attorney, Employee, HRMS, Supplier.
+        -Persistence : 1] One Time - Only one voucher can be made , after payment, suppliers status becomes 'Inactive'.
+                       2] Permanant : Any no vouchers can be made and to delete it you need to raise a request.
+                       3] Regular : any no of vouchers and if no activity is made by supplier within certain period, system
+                                    automatically make its status 'Archieved'.
+        
     
     Manage items.
     Manage requests for quotes.
