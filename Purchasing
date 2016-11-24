@@ -1,6 +1,8 @@
 # Purchasing includes following processes
 
-    Maintain supplier information.
+   # Maintain supplier information.
+        Navigation : Main>Suppliers>Supplier Information>Add/Update
+    
     Manage items.
     Manage requests for quotes.
     Manage vendor rebates.
