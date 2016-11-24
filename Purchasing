@@ -1,7 +1,10 @@
 # Purchasing includes following processes
 
    # Maintain supplier information.
-        Navigation : Main>Suppliers>Supplier Information>Add/Update
+        Navigation : Main>Suppliers>Supplier Information>Add/Update> Define supplier user (page).
+        -Here admin and other authorised users can give existing users authority to add/update suppliers.
+        -A user having such authority is called as 'Suppliers user'.
+        -Need existing user id here to create a supplier user profile.
     
     Manage items.
     Manage requests for quotes.
