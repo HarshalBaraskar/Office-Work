@@ -18,7 +18,16 @@
                        2] Permanant : Any no vouchers can be made and to delete it you need to raise a request.
                        3] Regular : any no of vouchers and if no activity is made by supplier within certain period, system
                                     automatically make its status 'Archieved'.
-        
+                                    
+        # CA EDD (California Employee Development Department) : According to the law of state of california, any contract
+          with value greater than $600 should be file in EDD within 20days from its start and then any no of contract a 
+          company can make and no need to file.
+            The Employment Development Department (EDD) is part of the Labor and Workforce Development Agency of the 
+            executive branch of the State of California. EDD offers a variety of services to millions of Californians 
+            under the Job Service, Unemployment Insurance, Disability Insurance, Workforce Investment, and Labor Market 
+            Information programs. As California's largest tax collection agency, EDD also handles the audit and collection 
+            of payroll taxes and maintains employment records for more than 17 million California workers.
+
     
     Manage items.
     Manage requests for quotes.
