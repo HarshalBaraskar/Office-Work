@@ -3,8 +3,10 @@
    # Maintain supplier information.
         *Navigation : Main>Suppliers>Supplier Information>Add/Update> Define supplier user (page).
                                                                     -----------------------------
-        -Here admin and other authorised users can give existing users authority to add/update suppliers.
+        -Here admin and other authorised users can give existing users authority to act as a supplier who will perform all operations 
+         of a supplier.
         -A user having such authority is called as 'Suppliers user'.
+        -Supplier User represents a supplier or vendor from whom we are buying goods and services.
         -Need existing user id here to create a supplier user profile.
         
         *Navigation : same as above. page: Supplier User
